@@ -7,3 +7,6 @@ The change for currency rate is calculated by comparing currency rate on selecte
 
 # ASP.NET Core MVC Web App
 Clone and run the program with Visual Studio
+
+# Check app online:
+https://exchangeratewebapp.azurewebsites.net/
